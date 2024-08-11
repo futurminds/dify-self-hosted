@@ -108,11 +108,13 @@ sudo cp default default.bkp
 ```
 
 Open the default file and comment out the following sections:
-# root /var/www/html;
-# index index.html index.htm index.nginx-debian.html;
-# location / {
-#     try_files $uri $uri/ =404;
-# }
+```bash
+root /var/www/html;
+index index.html index.htm index.nginx-debian.html;
+location / {
+     try_files $uri $uri/ =404;
+}
+```
 
 Why do we need to comment these?
 `root /var/www/html;`:
