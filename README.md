@@ -158,7 +158,6 @@ If you visit your site and see a "bad gateway" error, this is expected until Dif
 From the dify/docker directory, run:
 ```bash
 cd ~/dify/docker
-cp .env.example .env
 docker compose up -d
 ```
 
