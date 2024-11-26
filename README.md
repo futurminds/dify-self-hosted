@@ -2,6 +2,10 @@
 
 Welcome to the guide on setting up and using Dify, a powerful open-source platform for building AI applications. This document will walk you through the process of self-hosting Dify on a Google Cloud VM using Docker and Docker Compose, and how to trigger workflows using APIs.
 
+Video Link: https://www.youtube.com/watch?v=yH2CjCnWz1I
+![Screenshot 2024-08-15 003934](https://github.com/user-attachments/assets/20f4b24f-e8fe-44da-a7f5-52e744f6bae1)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
